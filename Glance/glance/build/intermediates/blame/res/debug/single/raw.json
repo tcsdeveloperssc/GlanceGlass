@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\raw\\videone.mp4",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\raw\\videone.mp4"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\raw\\video1.mp4",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\raw\\video1.mp4"
+    }
+]

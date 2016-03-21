@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Glance.iml" filepath="$PROJECT_DIR$/Glance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/captureActivity/captureActivity.iml" filepath="$PROJECT_DIR$/captureActivity/captureActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fayeLibrary/fayeLibrary.iml" filepath="$PROJECT_DIR$/fayeLibrary/fayeLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glance/glance.iml" filepath="$PROJECT_DIR$/glance/glance.iml" />
+    </modules>
+  </component>
+</project>

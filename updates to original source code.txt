@@ -1,0 +1,19 @@
+Changes to original source code
+
+1. 
+
+In the AndroidManifest.xml, replaced line 62
+
+<category android:name="android.intent.category.LAUNCHER" />
+
+with 
+
+<category android:name="com.google.android.glass.category.DIRECTORY" />
+
+2.
+
+In utils/Utils.java, in method keyFinder on line 87 added code to change incoming voice text to lowercase letters, Glass 2 seems to capitalize the first letter of spoken language, old code had all lowercase keys
+
+3.
+
+In the captureActivity Library, in class CameraManager.java, added code to make the camera preview compatable with both Glass 1 and Glass 2. Glass one has distorted preview that has a fix, but Glass 2 has fixed that issue but the preview is rotated.

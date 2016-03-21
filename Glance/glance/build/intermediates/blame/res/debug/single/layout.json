@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\self_help_card.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\self_help_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\root_cause.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\root_cause.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\app_picker_list_item.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\layout\\app_picker_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\record_audio.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\record_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\mails.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\mails.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\mail_box.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\mail_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_detection.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\activity_image_detection.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\share.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\layout\\share.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\menu_pager.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\menu_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\link_node_activity.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\link_node_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\self_help.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\self_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\item_main_node.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\item_main_node.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\video_screen.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\video_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\layout\\search_book_contents.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\asset_detail.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\asset_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents_list_item.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\layout\\search_book_contents_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents_header.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\layout\\search_book_contents_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\survey.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\survey.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_user_list.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\nearby_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\encode.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\layout\\encode.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\tasks.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\task_list.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\task_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\bookmark_picker_list_item.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\layout\\bookmark_picker_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\history_list_item.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\layout\\history_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\camera_action.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\camera_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\audiolayout.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\audiolayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\fayeLibrary\\unspecified\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\image_screen.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\image_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_user.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\nearby_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\imageview.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\imageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\gps_test.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\gps_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\camera_layout.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\camera_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\story_activity.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\story_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\settings_pager.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\settings_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\layout\\hotspot_activity.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\layout\\hotspot_activity.xml"
+    }
+]

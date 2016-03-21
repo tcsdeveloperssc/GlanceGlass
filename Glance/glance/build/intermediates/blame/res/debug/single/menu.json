@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\topdrive_menu.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\topdrive_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\command_options.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\command_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\send_cancel.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\send_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\inbox_sent_items.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\inbox_sent_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\offlinebranch.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\offlinebranch.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\offlinemenu.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\offlinemenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\select_ip.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\select_ip.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\torq_menu.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\torq_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\upload_skip.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\upload_skip.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\reply_cancel.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\reply_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu_options.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\menu\\main_menu_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\menu\\encode.xml"
+    }
+]

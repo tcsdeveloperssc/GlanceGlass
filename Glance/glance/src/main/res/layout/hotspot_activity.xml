@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/hotspots_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black" >
+
+    <RelativeLayout
+        android:id="@+id/hotspots_image"
+        android:layout_width="640px"
+        android:layout_height="360px" >
+
+        <ImageView
+            android:id="@+id/hot_img"
+            android:layout_width="640px"
+            android:layout_height="360px"
+            android:scaleType="fitXY" />
+    </RelativeLayout>
+   
+
+    <ProgressBar
+        android:id="@+id/pbHotSpot"
+        android:visibility="visible"
+        style="@android:style/Widget.ProgressBar.Inverse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminate="true" />
+
+</RelativeLayout>

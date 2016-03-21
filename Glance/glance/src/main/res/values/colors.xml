@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#77FF0000</color>
+    <color name="inner_circle">#454242</color>
+    <color name="outer_cricle">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+</resources>

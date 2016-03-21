@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shopper_icon.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\drawable-hdpi-v4\\shopper_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_no.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_no.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_message_50.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_message_50.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\launcher_icon.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\drawable-hdpi-v4\\launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\medium.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\medium.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fileserver.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\fileserver.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_glass_logo.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_glass_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_reply_50.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_reply_50.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\glance_logo.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\glance_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\separator.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\separator.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\low.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\low.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pignon.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\pignon.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checklist_not_done.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\checklist_not_done.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_done.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checklist_done.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\checklist_done.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_email_50.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_email_50.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_icon.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\alert_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icn_green_blub.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\icn_green_blub.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_warning.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chrysanthemum.jpg",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\chrysanthemum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stop.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\high.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\high.png"
+    }
+]

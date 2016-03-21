@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\captureActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shopper_icon.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\captureActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\shopper_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\captureActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\launcher_icon.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\captureActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\captureActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\share_via_barcode.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\captureActivity\\build\\intermediates\\bundles\\debug\\res\\drawable\\share_via_barcode.png"
+    }
+]

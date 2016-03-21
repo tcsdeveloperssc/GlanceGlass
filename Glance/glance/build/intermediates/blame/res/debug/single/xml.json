@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\xml\\voice_trigger.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\xml\\voice_trigger.xml"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\xml\\preferences.xml"
+    }
+]

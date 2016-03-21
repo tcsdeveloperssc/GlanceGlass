@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/link_story_card_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:paddingBottom="10px" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/dots_scrollbar_holder_link_node"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="10px"
+        android:orientation="horizontal"
+         >
+
+
+    </LinearLayout>
+
+   <!--  <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="Faye"
+        android:id="@+id/faye"
+        /> -->
+    <com.glance.view.RobotoTextView
+        android:id="@+id/error_txt_link_node"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="@string/unexpected_error"
+        android:textColor="#FFFFFF"
+        android:textSize="80sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

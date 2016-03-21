@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".MailBoxActivity" >
+    
+    <LinearLayout
+        android:id="@+id/card_layout_mail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:paddingBottom="10px" >
+    </LinearLayout>
+    
+
+    
+
+    <LinearLayout
+        android:id="@+id/dots_scrollbar_holder_mail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:paddingBottom="10px" >
+    </LinearLayout>
+
+    <com.glance.view.RobotoTextView
+        android:id="@+id/mb_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="@string/unexpected_error"
+        android:textColor="#FFFFFF"
+        android:textSize="60sp"
+        android:visibility="gone" />
+    
+    <ProgressBar
+        android:id="@+id/pbMailBox"
+        android:visibility="visible"
+        style="@android:style/Widget.ProgressBar.Inverse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminate="true" />
+</RelativeLayout>

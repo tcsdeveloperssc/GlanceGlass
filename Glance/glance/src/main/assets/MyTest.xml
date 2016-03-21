@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BookT" size="500.000000 385.076477" />
+    <ImageTarget name="Mac" size="600.000000 375.363312" />
+    <ImageTarget name="Hobbit2" size="800.000000 399.723755" />
+    <ImageTarget name="Fit4Life4" size="800.000000 528.385132" />
+    <ImageTarget name="Coat4" size="600.000000 735.539551" />
+  </Tracking>
+</QCARConfig>

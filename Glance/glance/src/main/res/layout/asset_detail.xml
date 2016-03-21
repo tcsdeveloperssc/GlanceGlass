@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/asset_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" >
+
+        <com.glance.view.RobotoTextView
+            android:id="@+id/machineName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dip"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dip"
+            android:text="Machine Name"
+            android:textColor="#00CCC2"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:visibility="visible" />
+
+        <RelativeLayout
+            android:id="@+id/upper_holder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/machineName" >
+
+            <RelativeLayout
+                android:id="@+id/temp_holder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp" >
+
+                <com.glance.view.RobotoTextView
+                    android:id="@+id/tv_temp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Type"
+                    android:textColor="#FFFFFF"
+                    android:textSize="26sp"
+                    android:visibility="visible" />
+
+                <com.glance.view.RobotoTextView
+                    android:id="@+id/tv_temp_val"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_temp"
+                    android:layout_marginTop="5dip"
+                    android:text="29 C"
+                    android:textColor="#00CCC2"
+                    android:textSize="40sp"
+                    android:visibility="visible" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/humid_holder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_toRightOf="@+id/temp_holder" >
+
+                <com.glance.view.RobotoTextView
+                    android:id="@+id/tv_humidity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Location"
+                    android:textColor="#FFFFFF"
+                    android:textSize="26sp"
+                    android:visibility="visible" />
+
+                <com.glance.view.RobotoTextView
+                    android:id="@+id/tv_humidity_val"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_humidity"
+                    android:layout_marginTop="5dip"
+                    android:text="40%"
+                    android:textColor="#00CCC2"
+                    android:textSize="40sp"
+                    android:visibility="visible" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/sep_holder"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/upper_holder"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/separator" />
+    </RelativeLayout>
+
+    <com.glance.view.RobotoTextView
+        android:id="@+id/tv_asset_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="@string/unexpected_error"
+        android:textColor="#FFFFFF"
+        android:textSize="60sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

@@ -1,0 +1,613 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:2:1-191:12
+	package
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:4:5-25
+		INJECTED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:23:5-25:41
+MERGED from [Glance:fayeLibrary:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\fayeLibrary\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:12:5-67
+MERGED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:28:5-67
+MERGED from [Glance:fayeLibrary:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\fayeLibrary\unspecified\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:12:22-64
+uses-permission#com.google.android.glass.permission.DEVELOPMENT
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:13:5-87
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:13:22-84
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:17:5-81
+MERGED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:19:5-76
+MERGED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:20:22-65
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:21:5-98
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:21:22-95
+uses-permission#android.permission.ACCESS_GPS
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:22:5-69
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:22:22-66
+uses-permission#android.permission.ACCESS_LOCATION
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:23:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:26:5-65
+MERGED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:26:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:29:5-31:36
+MERGED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:30:9-47
+uses-feature#android.hardware.camera.any
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:38:5-64
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:38:19-61
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:39:5-41:36
+MERGED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:46:5-48:36
+	android:required
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:42:5-44:36
+MERGED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:49:5-51:36
+	android:required
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:43:9-53
+application
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:46:5-189:19
+MERGED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:69:5-235:19
+	android:label
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:49:9-41
+	android:hardwareAccelerated
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:71:9-43
+	android:allowBackup
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:47:9-35
+	android:icon
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:48:9-45
+		REJECTED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:72:9-47
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:50:9-40
+	tools:replace
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:51:9-37
+	android:logo
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:74:9-47
+activity#com.glance.activity.MenuActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:52:9-73:20
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:57:13-50
+	android:label
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:56:13-45
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:54:13-74
+	android:icon
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:55:13-49
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:58:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:53:13-50
+intent-filter#android.intent.action.MAIN+com.google.android.glass.category.DIRECTORY
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:59:13-65:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:60:25-66
+category#com.google.android.glass.category.DIRECTORY
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:63:17-88
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:63:27-85
+intent-filter#com.google.android.glass.action.VOICE_TRIGGER
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:66:13-68:29
+action#com.google.android.glass.action.VOICE_TRIGGER
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:67:17-88
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:67:25-85
+meta-data#com.google.android.glass.VoiceTrigger
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:70:13-72:57
+	android:resource
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:72:17-54
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:71:17-69
+activity#com.glance.activity.HotSpotActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:74:9-79:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:78:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:77:13-74
+	android:alwaysRetainTaskState
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:76:13-49
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:79:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:75:13-53
+activity#com.glance.activity.ZoomActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:80:9-85:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:84:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:83:13-74
+	android:alwaysRetainTaskState
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:82:13-49
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:85:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:81:13-50
+activity#com.glance.view.VideoScreen
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:86:9-90:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:89:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:88:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:90:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:87:13-45
+activity#com.glance.view.ImageScreen
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:91:9-95:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:94:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:93:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:95:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:92:13-45
+activity#com.glance.view.StreamingAudioPlayer
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:96:9-100:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:99:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:98:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:100:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:97:13-54
+activity#com.glance.activity.TaskListActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:101:9-105:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:104:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:103:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:105:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:102:13-54
+activity#com.glance.activity.LinkNodeActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:106:9-110:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:109:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:108:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:110:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:107:13-54
+activity#com.glance.activity.CameraActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:111:9-115:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:114:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:113:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:115:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:112:13-52
+activity#com.glance.activity.MailboxActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:116:9-120:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:119:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:118:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:120:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:117:13-53
+activity#com.glance.activity.SettingsActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:121:9-125:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:124:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:123:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:125:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:122:13-54
+activity#com.glance.activity.AssetScanActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:126:9-130:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:129:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:128:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:130:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:127:13-55
+activity#com.glance.activity.OfflineHotSpotActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:131:9-135:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:134:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:133:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:135:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:132:13-60
+activity#com.glance.activity.AssetDetailActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:136:9-140:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:139:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:138:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:140:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:137:13-57
+activity#com.glance.activity.SelfHelpActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:141:9-145:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:144:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:143:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:145:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:142:13-54
+activity#com.glance.activity.UserManuelActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:146:9-150:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:149:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:148:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:150:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:147:13-56
+activity#com.glance.activity.NearbyUserListActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:151:9-155:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:154:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:153:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:155:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:152:13-60
+activity#com.glance.utils.RecordAudio
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:156:9-160:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:159:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:158:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:160:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:157:13-46
+activity#com.glance.activity.RootCauseActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:161:9-165:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:164:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:163:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:165:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:162:13-55
+activity#com.glance.activity.SurveyActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:166:9-170:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:169:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:168:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:170:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:167:13-52
+activity#com.glance.activity.SurveyDetailActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:171:9-175:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:174:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:173:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:175:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:172:13-58
+service#com.glance.activity.GPSService
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:178:9-56
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:178:18-53
+service#com.glance.faye.CopyOfAlertNotificationService
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:179:9-72
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:179:18-69
+service#com.glance.faye.WebPortalSocketService
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:180:9-64
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:180:18-61
+service#com.glance.faye.ScreenStatusService
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:181:9-61
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:181:18-58
+service#com.glance.faye.AnnotationService
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:182:9-59
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:182:18-56
+activity#com.glance.activity.ImageDetectionActivity
+ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:184:9-188:74
+	android:screenOrientation
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:187:13-50
+	android:configChanges
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:186:13-74
+	android:theme
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:188:13-71
+	android:name
+		ADDED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:185:13-60
+uses-permission#android.permission.VIBRATE
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:29:5-66
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:29:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:30:5-69
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:30:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:31:5-72
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:31:22-69
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:32:5-93
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:32:22-90
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:34:5-76
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:34:22-73
+uses-feature#android.hardware.camera.front
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:42:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:52:5-70
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:52:19-67
+uses-feature#android.hardware.wifi
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:53:5-55:36
+	android:required
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:55:9-33
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:54:9-45
+uses-feature#android.hardware.touchscreen
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:57:5-65
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:57:19-62
+supports-screens
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:62:5-67:40
+	android:largeScreens
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:64:9-36
+	android:smallScreens
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:66:9-36
+	android:normalScreens
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:65:9-37
+	android:xlargeScreens
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:67:9-37
+	android:anyDensity
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:63:9-34
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:75:9-141:20
+	android:clearTaskOnLaunch
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:77:13-45
+	android:screenOrientation
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:79:13-50
+	android:stateNotNeeded
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:80:13-42
+	android:windowSoftInputMode
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:82:13-60
+	android:configChanges
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:78:13-63
+	android:theme
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:81:13-71
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:76:13-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:83:13-87:29
+category#android.intent.category.LAUNCHER
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:86:17-77
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:86:27-74
+intent-filter#android.intent.category.DEFAULT+com.google.zxing.client.android.SCAN
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:88:13-92:29
+action#com.google.zxing.client.android.SCAN
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:89:17-79
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:89:25-76
+category#android.intent.category.DEFAULT
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:91:17-76
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:91:27-73
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:94:13-104:29
+action#android.intent.action.VIEW
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:95:17-69
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:95:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:98:17-78
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:98:27-75
+data
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:100:17-103:45
+	android:path
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:102:21-41
+	android:host
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:101:21-53
+	android:scheme
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:103:21-42
+activity#com.google.zxing.client.android.PreferencesActivity
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:142:9-146:20
+	android:label
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:144:13-53
+	android:stateNotNeeded
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:145:13-42
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:143:13-79
+activity#com.google.zxing.client.android.encode.EncodeActivity
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:147:9-171:20
+	android:stateNotNeeded
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:149:13-42
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:148:13-81
+intent-filter#android.intent.category.DEFAULT+com.google.zxing.client.android.ENCODE
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:150:13-154:29
+action#com.google.zxing.client.android.ENCODE
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:151:17-81
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:151:25-78
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:156:13-162:29
+action#android.intent.action.SEND
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:157:17-69
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:157:25-66
+activity#com.google.zxing.client.android.book.SearchBookContentsActivity
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:172:9-183:20
+	android:screenOrientation
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:176:13-50
+	android:label
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:175:13-45
+	android:stateNotNeeded
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:177:13-42
+	android:configChanges
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:174:13-63
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:173:13-91
+intent-filter#android.intent.category.DEFAULT+com.google.zxing.client.android.SEARCH_BOOK_CONTENTS
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:178:13-182:29
+action#com.google.zxing.client.android.SEARCH_BOOK_CONTENTS
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:179:17-95
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:179:25-92
+activity#com.google.zxing.client.android.share.ShareActivity
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:184:9-194:20
+	android:screenOrientation
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:186:13-45
+	android:stateNotNeeded
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:187:13-42
+	android:theme
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:188:13-55
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:185:13-79
+intent-filter#android.intent.category.DEFAULT+com.google.zxing.client.android.SHARE
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:189:13-193:29
+action#com.google.zxing.client.android.SHARE
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:190:17-80
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:190:25-77
+activity#com.google.zxing.client.android.history.HistoryActivity
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:195:9-204:20
+	android:label
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:197:13-50
+	android:stateNotNeeded
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:198:13-42
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:196:13-83
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:199:13-203:29
+activity#com.google.zxing.client.android.share.BookmarkPickerActivity
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:205:9-214:20
+	android:label
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:207:13-57
+	android:stateNotNeeded
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:208:13-42
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:206:13-88
+intent-filter#android.intent.action.PICK+android.intent.category.DEFAULT
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:209:13-213:29
+action#android.intent.action.PICK
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:210:17-69
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:210:25-66
+activity#com.google.zxing.client.android.share.AppPickerActivity
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:215:9-225:20
+	android:label
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:218:13-52
+	android:stateNotNeeded
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:219:13-42
+	android:configChanges
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:217:13-48
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:216:13-83
+activity#com.google.zxing.client.android.HelpActivity
+ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:226:9-234:20
+	android:screenOrientation
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:228:13-45
+	android:name
+		ADDED from [Glance:captureActivity:unspecified] C:\Users\1077203\AndroidStudioProjects\Glance\glance\build\intermediates\exploded-aar\Glance\captureActivity\unspecified\AndroidManifest.xml:227:13-72
+android:uses-permission#android.permission.READ_CALL_LOG
+IMPLIED from C:\Users\1077203\AndroidStudioProjects\Glance\glance\src\main\AndroidManifest.xml:2:1-191:12 reason: com.google.zxing.client.android has targetSdkVersion < 16 and requested READ_CONTACTS

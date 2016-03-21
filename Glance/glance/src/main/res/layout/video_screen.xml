@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <VideoView android:id="@+id/video_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    
+  	<com.glance.view.RobotoTextView android:layout_width="match_parent"
+  	    android:layout_margin="3dip"
+  	    android:text="@string/video_message"
+  	    android:layout_alignParentBottom="true"
+  	    android:textSize="12sp"
+  	    android:background="@color/inner_circle"
+  	    android:layout_height="wrap_content"
+  	    android:textColor="#FFFFFF"/>
+
+  	<ProgressBar
+        android:id="@+id/pb_video"
+        android:visibility="gone"
+        style="@android:style/Widget.ProgressBar.Inverse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminate="true" />
+</RelativeLayout>

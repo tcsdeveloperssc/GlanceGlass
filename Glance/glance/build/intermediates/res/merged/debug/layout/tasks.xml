@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="5dip"
+    android:orientation="vertical" >
+
+    <com.glance.view.RobotoTextView
+        android:id="@+id/newtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginTop="10dip"
+        android:ellipsize="end"
+        android:maxHeight="40dip"
+        android:maxLines="6"
+        android:textColor="#FFF04E"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/ivPriority"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="30dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="20dip"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/low" />
+
+    <com.glance.view.RobotoTextView
+        android:id="@+id/tv_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dip"
+        android:layout_marginLeft="10dp"
+        android:text="Status : "
+        android:textColor="#FFF04E"
+        android:textSize="20sp"
+        android:visibility="visible" />
+
+    <com.glance.view.RobotoTextView
+        android:id="@+id/statusText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dip"
+        android:layout_toRightOf="@+id/tv_status"
+        android:ellipsize="end"
+        android:maxHeight="40dip"
+        android:maxLines="6"
+        android:textColor="#00FF4E"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+
+</RelativeLayout>

@@ -1,0 +1,111 @@
+{
+    "message": "success",
+    "status": "0",
+    "creator": "527a625690d5819e12bef228",
+    "mode": "Published",
+    "modifiedTime": "1385125361536",
+    "nodeData": [
+        {
+            "criteria": "LONG=76.365176;LAT=10.008155;DIST=25label=bombay;long=10.123456;lat=10.123456;dist=25",
+            "nodeKey": "0",
+            "nodeTitle": "decision",
+            "subNodes": [
+                {
+                    "artifactId": "527a605384ae7066e613835f",
+                    "hotSpots": [
+                        {
+                            "height": "100",
+                            "key": "hotspot-0",
+                            "links": [
+                                {
+                                    "artifactId": "527a601584ae7066e613835d",
+                                    "event": "click",
+                                    "type": "video"
+                                }
+                            ],
+                            "width": "100",
+                            "x": "66",
+                            "y": "132"
+                        }
+                    ],
+                    "subNodeKey": "0-0",
+                    "subNodeTitle": "Step"
+                },
+                {
+                    "artifactId": "527a605384ae7066e613835f",
+                    "hotSpots": [
+                        {
+                            "height": "100",
+                            "key": "hotspot-0",
+                            "links": [
+                                {
+                                    "artifactId": "527a601584ae7066e613835d",
+                                    "event": "click",
+                                    "type": "video"
+                                }
+                            ],
+                            "width": "100",
+                            "x": "100",
+                            "y": "132"
+                        }
+                    ],
+                    "subNodeKey": "0-0",
+                    "subNodeTitle": "Step"
+                },
+                {
+                    "artifactId": "527a605384ae7066e613835f",
+                    "hotSpots": [
+                        {
+                            "height": "100",
+                            "key": "hotspot-0",
+                            "links": [
+                                {
+                                    "artifactId": "527a601584ae7066e613835d",
+                                    "event": "click",
+                                    "type": "video"
+                                }
+                            ],
+                            "width": "100",
+                            "x": "50",
+                            "y": "50"
+                        }
+                    ],
+                    "subNodeKey": "0-0",
+                    "subNodeTitle": "Step"
+                }
+            ]
+        },
+        {
+            "nodeKey": "1",
+            "nodeTitle": "decision",
+            "subNodes": [
+                {
+                    "artifactId": "5281079784aecbe5ad16690b",
+                    "hotSpots": [
+                        {
+                            "height": "100",
+                            "key": "hotspot-0",
+                            "links": [
+                                {
+                                    "artifactId": "527a601584ae7066e613835d",
+                                    "event": "click",
+                                    "type": "video"
+                                }
+                            ],
+                            "width": "100",
+                            "x": "240",
+                            "y": "138"
+                        }
+                    ],
+                    "subNodeKey": "1-0",
+                    "subNodeTitle": "Step"
+                }
+            ]
+        }
+    ],
+    "publishedTime": "1385377200996",
+    "publisher": "admin",
+    "storyId": "528b401d84aecb9d557632c1",
+    "storyName": "SherinStory",
+    "version": "0.2"
+}
