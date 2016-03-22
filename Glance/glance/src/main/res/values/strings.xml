@@ -85,8 +85,12 @@
     <string name="engine_problem_2">Problem 2</string>
     <string name="engine_problem_3">Problem 3</string>
     <string name="menu_image_detection">Image Detection</string>
-    <string name="title_activity_image_detection">ImageDetectionActivity</string>
     <string name="title_activity_image_detection_immersion">Image Detection Immersion</string>
     <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_image_detection">Image Detection</string>
+    <string name="tap_message">Tap to take Picture</string>
+    <string name="wait_message">Uploading Picture. Please Wait</string>
+    <string name="ImageDetectionWelcomeMessage">Tap to Take a Picture for Analysis</string>
 
 </resources>

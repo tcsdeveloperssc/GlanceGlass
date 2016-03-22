@@ -545,8 +545,27 @@
                     "startLine": 70,
                     "startColumn": 4,
                     "startOffset": 2305,
+                    "endColumn": 91,
+                    "endOffset": 2392
+                },
+                "from": {
+                    "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4569,
+                        "endColumn": 91,
+                        "endOffset": 4656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2397,
                     "endColumn": 52,
-                    "endOffset": 2353
+                    "endOffset": 2445
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -561,11 +580,11 @@
             },
             {
                 "to": {
-                    "startLine": 71,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 2358,
+                    "startOffset": 2450,
                     "endColumn": 43,
-                    "endOffset": 2397
+                    "endOffset": 2489
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -580,11 +599,11 @@
             },
             {
                 "to": {
-                    "startLine": 72,
+                    "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 2402,
+                    "startOffset": 2494,
                     "endColumn": 56,
-                    "endOffset": 2454
+                    "endOffset": 2546
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -599,11 +618,11 @@
             },
             {
                 "to": {
-                    "startLine": 73,
+                    "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 2459,
+                    "startOffset": 2551,
                     "endColumn": 54,
-                    "endOffset": 2509
+                    "endOffset": 2601
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -618,11 +637,11 @@
             },
             {
                 "to": {
-                    "startLine": 74,
+                    "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 2514,
+                    "startOffset": 2606,
                     "endColumn": 58,
-                    "endOffset": 2568
+                    "endOffset": 2660
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -637,11 +656,11 @@
             },
             {
                 "to": {
-                    "startLine": 75,
+                    "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 2573,
+                    "startOffset": 2665,
                     "endColumn": 63,
-                    "endOffset": 2632
+                    "endOffset": 2724
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -656,11 +675,11 @@
             },
             {
                 "to": {
-                    "startLine": 76,
+                    "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 2637,
+                    "startOffset": 2729,
                     "endColumn": 58,
-                    "endOffset": 2691
+                    "endOffset": 2783
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -675,11 +694,11 @@
             },
             {
                 "to": {
-                    "startLine": 77,
+                    "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 2696,
+                    "startOffset": 2788,
                     "endColumn": 44,
-                    "endOffset": 2736
+                    "endOffset": 2828
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -694,11 +713,11 @@
             },
             {
                 "to": {
-                    "startLine": 78,
+                    "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 2741,
+                    "startOffset": 2833,
                     "endColumn": 58,
-                    "endOffset": 2795
+                    "endOffset": 2887
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -713,11 +732,11 @@
             },
             {
                 "to": {
-                    "startLine": 79,
+                    "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 2800,
+                    "startOffset": 2892,
                     "endColumn": 48,
-                    "endOffset": 2844
+                    "endOffset": 2936
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -732,11 +751,11 @@
             },
             {
                 "to": {
-                    "startLine": 80,
+                    "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 2849,
+                    "startOffset": 2941,
                     "endColumn": 70,
-                    "endOffset": 2915
+                    "endOffset": 3007
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -751,11 +770,11 @@
             },
             {
                 "to": {
-                    "startLine": 81,
+                    "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 2920,
+                    "startOffset": 3012,
                     "endColumn": 51,
-                    "endOffset": 2967
+                    "endOffset": 3059
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -770,11 +789,11 @@
             },
             {
                 "to": {
-                    "startLine": 82,
+                    "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 2972,
+                    "startOffset": 3064,
                     "endColumn": 44,
-                    "endOffset": 3012
+                    "endOffset": 3104
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -789,11 +808,11 @@
             },
             {
                 "to": {
-                    "startLine": 83,
+                    "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 3017,
+                    "startOffset": 3109,
                     "endColumn": 51,
-                    "endOffset": 3064
+                    "endOffset": 3156
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -808,11 +827,11 @@
             },
             {
                 "to": {
-                    "startLine": 84,
+                    "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 3069,
+                    "startOffset": 3161,
                     "endColumn": 64,
-                    "endOffset": 3129
+                    "endOffset": 3221
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -827,11 +846,11 @@
             },
             {
                 "to": {
-                    "startLine": 85,
+                    "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 3134,
+                    "startOffset": 3226,
                     "endColumn": 57,
-                    "endOffset": 3187
+                    "endOffset": 3279
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -846,11 +865,11 @@
             },
             {
                 "to": {
-                    "startLine": 86,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 3192,
+                    "startOffset": 3284,
                     "endColumn": 47,
-                    "endOffset": 3235
+                    "endOffset": 3327
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -865,11 +884,11 @@
             },
             {
                 "to": {
-                    "startLine": 87,
+                    "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 3240,
+                    "startOffset": 3332,
                     "endColumn": 40,
-                    "endOffset": 3276
+                    "endOffset": 3368
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -884,11 +903,11 @@
             },
             {
                 "to": {
-                    "startLine": 88,
+                    "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 3281,
+                    "startOffset": 3373,
                     "endColumn": 60,
-                    "endOffset": 3337
+                    "endOffset": 3429
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -903,11 +922,11 @@
             },
             {
                 "to": {
-                    "startLine": 89,
+                    "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 3342,
+                    "startOffset": 3434,
                     "endColumn": 64,
-                    "endOffset": 3402
+                    "endOffset": 3494
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -922,11 +941,11 @@
             },
             {
                 "to": {
-                    "startLine": 90,
+                    "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 3407,
+                    "startOffset": 3499,
                     "endColumn": 71,
-                    "endOffset": 3474
+                    "endOffset": 3566
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -941,11 +960,11 @@
             },
             {
                 "to": {
-                    "startLine": 91,
+                    "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 3479,
+                    "startOffset": 3571,
                     "endColumn": 56,
-                    "endOffset": 3531
+                    "endOffset": 3623
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -960,11 +979,11 @@
             },
             {
                 "to": {
-                    "startLine": 92,
+                    "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 3536,
+                    "startOffset": 3628,
                     "endColumn": 58,
-                    "endOffset": 3590
+                    "endOffset": 3682
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -979,11 +998,11 @@
             },
             {
                 "to": {
-                    "startLine": 93,
+                    "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 3595,
+                    "startOffset": 3687,
                     "endColumn": 65,
-                    "endOffset": 3656
+                    "endOffset": 3748
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -998,11 +1017,11 @@
             },
             {
                 "to": {
-                    "startLine": 94,
+                    "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 3661,
+                    "startOffset": 3753,
                     "endColumn": 61,
-                    "endOffset": 3718
+                    "endOffset": 3810
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1017,11 +1036,11 @@
             },
             {
                 "to": {
-                    "startLine": 95,
+                    "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 3723,
+                    "startOffset": 3815,
                     "endColumn": 60,
-                    "endOffset": 3779
+                    "endOffset": 3871
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1036,11 +1055,11 @@
             },
             {
                 "to": {
-                    "startLine": 96,
+                    "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 3784,
+                    "startOffset": 3876,
                     "endColumn": 56,
-                    "endOffset": 3836
+                    "endOffset": 3928
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1055,11 +1074,11 @@
             },
             {
                 "to": {
-                    "startLine": 97,
+                    "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 3841,
+                    "startOffset": 3933,
                     "endColumn": 52,
-                    "endOffset": 3889
+                    "endOffset": 3981
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1074,11 +1093,11 @@
             },
             {
                 "to": {
-                    "startLine": 98,
+                    "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 3894,
+                    "startOffset": 3986,
                     "endColumn": 47,
-                    "endOffset": 3937
+                    "endOffset": 4029
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1093,11 +1112,11 @@
             },
             {
                 "to": {
-                    "startLine": 99,
+                    "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 3942,
+                    "startOffset": 4034,
                     "endColumn": 56,
-                    "endOffset": 3994
+                    "endOffset": 4086
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1112,11 +1131,11 @@
             },
             {
                 "to": {
-                    "startLine": 100,
+                    "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 3999,
+                    "startOffset": 4091,
                     "endColumn": 58,
-                    "endOffset": 4053
+                    "endOffset": 4145
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1131,11 +1150,11 @@
             },
             {
                 "to": {
-                    "startLine": 101,
+                    "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 4058,
+                    "startOffset": 4150,
                     "endColumn": 41,
-                    "endOffset": 4095
+                    "endOffset": 4187
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1150,11 +1169,11 @@
             },
             {
                 "to": {
-                    "startLine": 102,
+                    "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 4100,
+                    "startOffset": 4192,
                     "endColumn": 39,
-                    "endOffset": 4135
+                    "endOffset": 4227
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1169,11 +1188,11 @@
             },
             {
                 "to": {
-                    "startLine": 103,
+                    "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 4140,
+                    "startOffset": 4232,
                     "endColumn": 67,
-                    "endOffset": 4203
+                    "endOffset": 4295
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1188,11 +1207,11 @@
             },
             {
                 "to": {
-                    "startLine": 104,
+                    "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 4208,
+                    "startOffset": 4300,
                     "endColumn": 47,
-                    "endOffset": 4251
+                    "endOffset": 4343
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1207,11 +1226,11 @@
             },
             {
                 "to": {
-                    "startLine": 105,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 4256,
+                    "startOffset": 4348,
                     "endColumn": 57,
-                    "endOffset": 4309
+                    "endOffset": 4401
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1226,11 +1245,11 @@
             },
             {
                 "to": {
-                    "startLine": 106,
+                    "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 4314,
+                    "startOffset": 4406,
                     "endColumn": 56,
-                    "endOffset": 4366
+                    "endOffset": 4458
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1245,11 +1264,11 @@
             },
             {
                 "to": {
-                    "startLine": 107,
+                    "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 4371,
+                    "startOffset": 4463,
                     "endColumn": 68,
-                    "endOffset": 4435
+                    "endOffset": 4527
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1264,11 +1283,11 @@
             },
             {
                 "to": {
-                    "startLine": 108,
+                    "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 4440,
+                    "startOffset": 4532,
                     "endColumn": 55,
-                    "endOffset": 4491
+                    "endOffset": 4583
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1283,11 +1302,11 @@
             },
             {
                 "to": {
-                    "startLine": 109,
+                    "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 4496,
+                    "startOffset": 4588,
                     "endColumn": 52,
-                    "endOffset": 4544
+                    "endOffset": 4636
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1302,11 +1321,11 @@
             },
             {
                 "to": {
-                    "startLine": 110,
+                    "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 4549,
+                    "startOffset": 4641,
                     "endColumn": 52,
-                    "endOffset": 4597
+                    "endOffset": 4689
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1321,11 +1340,11 @@
             },
             {
                 "to": {
-                    "startLine": 111,
+                    "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 4602,
+                    "startOffset": 4694,
                     "endColumn": 54,
-                    "endOffset": 4652
+                    "endOffset": 4744
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1340,11 +1359,11 @@
             },
             {
                 "to": {
-                    "startLine": 112,
+                    "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 4657,
+                    "startOffset": 4749,
                     "endColumn": 54,
-                    "endOffset": 4707
+                    "endOffset": 4799
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1359,11 +1378,11 @@
             },
             {
                 "to": {
-                    "startLine": 113,
+                    "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 4712,
+                    "startOffset": 4804,
                     "endColumn": 54,
-                    "endOffset": 4762
+                    "endOffset": 4854
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1378,11 +1397,11 @@
             },
             {
                 "to": {
-                    "startLine": 114,
+                    "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 4767,
+                    "startOffset": 4859,
                     "endColumn": 37,
-                    "endOffset": 4800
+                    "endOffset": 4892
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1397,11 +1416,11 @@
             },
             {
                 "to": {
-                    "startLine": 115,
+                    "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 4805,
+                    "startOffset": 4897,
                     "endColumn": 62,
-                    "endOffset": 4863
+                    "endOffset": 4955
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1416,11 +1435,11 @@
             },
             {
                 "to": {
-                    "startLine": 116,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 4868,
+                    "startOffset": 4960,
                     "endColumn": 57,
-                    "endOffset": 4921
+                    "endOffset": 5013
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1435,11 +1454,11 @@
             },
             {
                 "to": {
-                    "startLine": 117,
+                    "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 4926,
+                    "startOffset": 5018,
                     "endColumn": 89,
-                    "endOffset": 5011
+                    "endOffset": 5103
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1454,11 +1473,11 @@
             },
             {
                 "to": {
-                    "startLine": 118,
+                    "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 5016,
+                    "startOffset": 5108,
                     "endColumn": 46,
-                    "endOffset": 5058
+                    "endOffset": 5150
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1473,11 +1492,11 @@
             },
             {
                 "to": {
-                    "startLine": 119,
+                    "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 5063,
+                    "startOffset": 5155,
                     "endColumn": 94,
-                    "endOffset": 5153
+                    "endOffset": 5245
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1492,30 +1511,30 @@
             },
             {
                 "to": {
-                    "startLine": 120,
+                    "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 5158,
+                    "startOffset": 5250,
                     "endColumn": 52,
-                    "endOffset": 5206
+                    "endOffset": 5298
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 89,
+                        "startLine": 88,
                         "startColumn": 4,
-                        "startOffset": 4390,
+                        "startOffset": 4308,
                         "endColumn": 52,
-                        "endOffset": 4438
+                        "endOffset": 4356
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 121,
+                    "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 5211,
+                    "startOffset": 5303,
                     "endColumn": 37,
-                    "endOffset": 5244
+                    "endOffset": 5336
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1530,11 +1549,11 @@
             },
             {
                 "to": {
-                    "startLine": 122,
+                    "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 5249,
+                    "startOffset": 5341,
                     "endColumn": 67,
-                    "endOffset": 5312
+                    "endOffset": 5404
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1549,11 +1568,11 @@
             },
             {
                 "to": {
-                    "startLine": 123,
+                    "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 5317,
+                    "startOffset": 5409,
                     "endColumn": 71,
-                    "endOffset": 5384
+                    "endOffset": 5476
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1568,11 +1587,11 @@
             },
             {
                 "to": {
-                    "startLine": 124,
+                    "startLine": 125,
                     "startColumn": 4,
-                    "startOffset": 5389,
+                    "startOffset": 5481,
                     "endColumn": 64,
-                    "endOffset": 5449
+                    "endOffset": 5541
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1587,11 +1606,11 @@
             },
             {
                 "to": {
-                    "startLine": 125,
+                    "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 5454,
+                    "startOffset": 5546,
                     "endColumn": 60,
-                    "endOffset": 5510
+                    "endOffset": 5602
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1606,11 +1625,11 @@
             },
             {
                 "to": {
-                    "startLine": 126,
+                    "startLine": 127,
                     "startColumn": 4,
-                    "startOffset": 5515,
+                    "startOffset": 5607,
                     "endColumn": 71,
-                    "endOffset": 5582
+                    "endOffset": 5674
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1625,11 +1644,11 @@
             },
             {
                 "to": {
-                    "startLine": 127,
+                    "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 5587,
+                    "startOffset": 5679,
                     "endColumn": 47,
-                    "endOffset": 5630
+                    "endOffset": 5722
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1644,11 +1663,11 @@
             },
             {
                 "to": {
-                    "startLine": 128,
+                    "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 5635,
+                    "startOffset": 5727,
                     "endColumn": 84,
-                    "endOffset": 5715
+                    "endOffset": 5807
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1663,11 +1682,11 @@
             },
             {
                 "to": {
-                    "startLine": 129,
+                    "startLine": 130,
                     "startColumn": 4,
-                    "startOffset": 5720,
+                    "startOffset": 5812,
                     "endColumn": 53,
-                    "endOffset": 5769
+                    "endOffset": 5861
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1682,11 +1701,11 @@
             },
             {
                 "to": {
-                    "startLine": 130,
+                    "startLine": 131,
                     "startColumn": 4,
-                    "startOffset": 5774,
+                    "startOffset": 5866,
                     "endColumn": 49,
-                    "endOffset": 5819
+                    "endOffset": 5911
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1701,11 +1720,11 @@
             },
             {
                 "to": {
-                    "startLine": 131,
+                    "startLine": 132,
                     "startColumn": 4,
-                    "startOffset": 5824,
+                    "startOffset": 5916,
                     "endColumn": 39,
-                    "endOffset": 5859
+                    "endOffset": 5951
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1720,11 +1739,11 @@
             },
             {
                 "to": {
-                    "startLine": 132,
+                    "startLine": 133,
                     "startColumn": 4,
-                    "startOffset": 5864,
+                    "startOffset": 5956,
                     "endColumn": 41,
-                    "endOffset": 5901
+                    "endOffset": 5993
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1739,11 +1758,11 @@
             },
             {
                 "to": {
-                    "startLine": 133,
+                    "startLine": 134,
                     "startColumn": 4,
-                    "startOffset": 5906,
+                    "startOffset": 5998,
                     "endColumn": 45,
-                    "endOffset": 5947
+                    "endOffset": 6039
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1758,11 +1777,11 @@
             },
             {
                 "to": {
-                    "startLine": 134,
+                    "startLine": 135,
                     "startColumn": 4,
-                    "startOffset": 5952,
+                    "startOffset": 6044,
                     "endColumn": 41,
-                    "endOffset": 5989
+                    "endOffset": 6081
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1777,11 +1796,11 @@
             },
             {
                 "to": {
-                    "startLine": 135,
+                    "startLine": 136,
                     "startColumn": 4,
-                    "startOffset": 5994,
+                    "startOffset": 6086,
                     "endColumn": 45,
-                    "endOffset": 6035
+                    "endOffset": 6127
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1796,11 +1815,11 @@
             },
             {
                 "to": {
-                    "startLine": 136,
+                    "startLine": 137,
                     "startColumn": 4,
-                    "startOffset": 6040,
+                    "startOffset": 6132,
                     "endColumn": 52,
-                    "endOffset": 6088
+                    "endOffset": 6180
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1815,11 +1834,11 @@
             },
             {
                 "to": {
-                    "startLine": 137,
+                    "startLine": 138,
                     "startColumn": 4,
-                    "startOffset": 6093,
+                    "startOffset": 6185,
                     "endColumn": 53,
-                    "endOffset": 6142
+                    "endOffset": 6234
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1834,11 +1853,11 @@
             },
             {
                 "to": {
-                    "startLine": 138,
+                    "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 6147,
+                    "startOffset": 6239,
                     "endColumn": 66,
-                    "endOffset": 6209
+                    "endOffset": 6301
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1853,11 +1872,11 @@
             },
             {
                 "to": {
-                    "startLine": 139,
+                    "startLine": 140,
                     "startColumn": 4,
-                    "startOffset": 6214,
+                    "startOffset": 6306,
                     "endColumn": 57,
-                    "endOffset": 6267
+                    "endOffset": 6359
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1872,11 +1891,11 @@
             },
             {
                 "to": {
-                    "startLine": 140,
+                    "startLine": 141,
                     "startColumn": 4,
-                    "startOffset": 6272,
+                    "startOffset": 6364,
                     "endColumn": 55,
-                    "endOffset": 6323
+                    "endOffset": 6415
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1891,11 +1910,11 @@
             },
             {
                 "to": {
-                    "startLine": 141,
+                    "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 6328,
+                    "startOffset": 6420,
                     "endColumn": 42,
-                    "endOffset": 6366
+                    "endOffset": 6458
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1910,11 +1929,11 @@
             },
             {
                 "to": {
-                    "startLine": 142,
+                    "startLine": 143,
                     "startColumn": 4,
-                    "startOffset": 6371,
+                    "startOffset": 6463,
                     "endColumn": 48,
-                    "endOffset": 6415
+                    "endOffset": 6507
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -1929,11 +1948,11 @@
             },
             {
                 "to": {
-                    "startLine": 143,
+                    "startLine": 144,
                     "startColumn": 4,
-                    "startOffset": 6420,
+                    "startOffset": 6512,
                     "endColumn": 64,
-                    "endOffset": 6480
+                    "endOffset": 6572
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1948,11 +1967,11 @@
             },
             {
                 "to": {
-                    "startLine": 144,
+                    "startLine": 145,
                     "startColumn": 4,
-                    "startOffset": 6485,
+                    "startOffset": 6577,
                     "endColumn": 46,
-                    "endOffset": 6527
+                    "endOffset": 6619
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1967,11 +1986,11 @@
             },
             {
                 "to": {
-                    "startLine": 145,
+                    "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 6532,
+                    "startOffset": 6624,
                     "endColumn": 46,
-                    "endOffset": 6574
+                    "endOffset": 6666
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -1986,11 +2005,11 @@
             },
             {
                 "to": {
-                    "startLine": 146,
+                    "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 6579,
+                    "startOffset": 6671,
                     "endColumn": 58,
-                    "endOffset": 6633
+                    "endOffset": 6725
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2005,11 +2024,11 @@
             },
             {
                 "to": {
-                    "startLine": 147,
+                    "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 6638,
+                    "startOffset": 6730,
                     "endColumn": 60,
-                    "endOffset": 6694
+                    "endOffset": 6786
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2024,11 +2043,11 @@
             },
             {
                 "to": {
-                    "startLine": 148,
+                    "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 6699,
+                    "startOffset": 6791,
                     "endColumn": 52,
-                    "endOffset": 6747
+                    "endOffset": 6839
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2043,11 +2062,11 @@
             },
             {
                 "to": {
-                    "startLine": 149,
+                    "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 6752,
+                    "startOffset": 6844,
                     "endColumn": 50,
-                    "endOffset": 6798
+                    "endOffset": 6890
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2062,11 +2081,11 @@
             },
             {
                 "to": {
-                    "startLine": 150,
+                    "startLine": 151,
                     "startColumn": 4,
-                    "startOffset": 6803,
+                    "startOffset": 6895,
                     "endColumn": 44,
-                    "endOffset": 6843
+                    "endOffset": 6935
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2081,11 +2100,11 @@
             },
             {
                 "to": {
-                    "startLine": 151,
+                    "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 6848,
+                    "startOffset": 6940,
                     "endColumn": 58,
-                    "endOffset": 6902
+                    "endOffset": 6994
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2100,11 +2119,11 @@
             },
             {
                 "to": {
-                    "startLine": 152,
+                    "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 6907,
+                    "startOffset": 6999,
                     "endColumn": 42,
-                    "endOffset": 6945
+                    "endOffset": 7037
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2119,11 +2138,11 @@
             },
             {
                 "to": {
-                    "startLine": 153,
+                    "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 6950,
+                    "startOffset": 7042,
                     "endColumn": 44,
-                    "endOffset": 6990
+                    "endOffset": 7082
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2138,11 +2157,11 @@
             },
             {
                 "to": {
-                    "startLine": 154,
+                    "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 6995,
+                    "startOffset": 7087,
                     "endColumn": 86,
-                    "endOffset": 7077
+                    "endOffset": 7169
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2157,11 +2176,11 @@
             },
             {
                 "to": {
-                    "startLine": 155,
+                    "startLine": 156,
                     "startColumn": 4,
-                    "startOffset": 7082,
+                    "startOffset": 7174,
                     "endColumn": 137,
-                    "endOffset": 7215
+                    "endOffset": 7307
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2176,11 +2195,11 @@
             },
             {
                 "to": {
-                    "startLine": 156,
+                    "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 7220,
+                    "startOffset": 7312,
                     "endColumn": 53,
-                    "endOffset": 7269
+                    "endOffset": 7361
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2195,11 +2214,11 @@
             },
             {
                 "to": {
-                    "startLine": 157,
+                    "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 7274,
+                    "startOffset": 7366,
                     "endColumn": 53,
-                    "endOffset": 7323
+                    "endOffset": 7415
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2214,11 +2233,11 @@
             },
             {
                 "to": {
-                    "startLine": 158,
+                    "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 7328,
+                    "startOffset": 7420,
                     "endColumn": 54,
-                    "endOffset": 7378
+                    "endOffset": 7470
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2233,11 +2252,11 @@
             },
             {
                 "to": {
-                    "startLine": 159,
+                    "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 7383,
+                    "startOffset": 7475,
                     "endColumn": 101,
-                    "endOffset": 7480
+                    "endOffset": 7572
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2252,11 +2271,11 @@
             },
             {
                 "to": {
-                    "startLine": 160,
+                    "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 7485,
+                    "startOffset": 7577,
                     "endColumn": 49,
-                    "endOffset": 7530
+                    "endOffset": 7622
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2271,11 +2290,11 @@
             },
             {
                 "to": {
-                    "startLine": 161,
+                    "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 7535,
+                    "startOffset": 7627,
                     "endColumn": 49,
-                    "endOffset": 7580
+                    "endOffset": 7672
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2290,11 +2309,11 @@
             },
             {
                 "to": {
-                    "startLine": 162,
+                    "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 7585,
+                    "startOffset": 7677,
                     "endColumn": 105,
-                    "endOffset": 7686
+                    "endOffset": 7778
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2309,11 +2328,11 @@
             },
             {
                 "to": {
-                    "startLine": 163,
+                    "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 7691,
+                    "startOffset": 7783,
                     "endColumn": 57,
-                    "endOffset": 7744
+                    "endOffset": 7836
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2328,11 +2347,11 @@
             },
             {
                 "to": {
-                    "startLine": 164,
+                    "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 7749,
+                    "startOffset": 7841,
                     "endColumn": 68,
-                    "endOffset": 7813
+                    "endOffset": 7905
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2347,11 +2366,11 @@
             },
             {
                 "to": {
-                    "startLine": 165,
+                    "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 7818,
+                    "startOffset": 7910,
                     "endColumn": 86,
-                    "endOffset": 7900
+                    "endOffset": 7992
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2366,11 +2385,11 @@
             },
             {
                 "to": {
-                    "startLine": 166,
+                    "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 7905,
+                    "startOffset": 7997,
                     "endColumn": 197,
-                    "endOffset": 8098
+                    "endOffset": 8190
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2385,11 +2404,11 @@
             },
             {
                 "to": {
-                    "startLine": 167,
+                    "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 8103,
+                    "startOffset": 8195,
                     "endColumn": 138,
-                    "endOffset": 8237
+                    "endOffset": 8329
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2404,11 +2423,11 @@
             },
             {
                 "to": {
-                    "startLine": 168,
+                    "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 8242,
+                    "startOffset": 8334,
                     "endColumn": 49,
-                    "endOffset": 8287
+                    "endOffset": 8379
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2423,11 +2442,11 @@
             },
             {
                 "to": {
-                    "startLine": 169,
+                    "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 8292,
+                    "startOffset": 8384,
                     "endColumn": 91,
-                    "endOffset": 8379
+                    "endOffset": 8471
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2442,11 +2461,11 @@
             },
             {
                 "to": {
-                    "startLine": 170,
+                    "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 8384,
+                    "startOffset": 8476,
                     "endColumn": 83,
-                    "endOffset": 8463
+                    "endOffset": 8555
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2461,11 +2480,11 @@
             },
             {
                 "to": {
-                    "startLine": 171,
+                    "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 8468,
+                    "startOffset": 8560,
                     "endColumn": 69,
-                    "endOffset": 8533
+                    "endOffset": 8625
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2480,11 +2499,11 @@
             },
             {
                 "to": {
-                    "startLine": 172,
+                    "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 8538,
+                    "startOffset": 8630,
                     "endColumn": 45,
-                    "endOffset": 8579
+                    "endOffset": 8671
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2499,11 +2518,11 @@
             },
             {
                 "to": {
-                    "startLine": 173,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 8584,
+                    "startOffset": 8676,
                     "endColumn": 51,
-                    "endOffset": 8631
+                    "endOffset": 8723
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2518,11 +2537,11 @@
             },
             {
                 "to": {
-                    "startLine": 174,
+                    "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 8636,
+                    "startOffset": 8728,
                     "endColumn": 71,
-                    "endOffset": 8703
+                    "endOffset": 8795
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2537,11 +2556,11 @@
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 8708,
+                    "startOffset": 8800,
                     "endColumn": 77,
-                    "endOffset": 8781
+                    "endOffset": 8873
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2556,11 +2575,11 @@
             },
             {
                 "to": {
-                    "startLine": 176,
+                    "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 8786,
+                    "startOffset": 8878,
                     "endColumn": 61,
-                    "endOffset": 8843
+                    "endOffset": 8935
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2575,11 +2594,11 @@
             },
             {
                 "to": {
-                    "startLine": 177,
+                    "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 8848,
+                    "startOffset": 8940,
                     "endColumn": 143,
-                    "endOffset": 8987
+                    "endOffset": 9079
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2594,11 +2613,11 @@
             },
             {
                 "to": {
-                    "startLine": 178,
+                    "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 8992,
+                    "startOffset": 9084,
                     "endColumn": 95,
-                    "endOffset": 9083
+                    "endOffset": 9175
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2613,11 +2632,11 @@
             },
             {
                 "to": {
-                    "startLine": 179,
+                    "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 9088,
+                    "startOffset": 9180,
                     "endColumn": 76,
-                    "endOffset": 9160
+                    "endOffset": 9252
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2632,11 +2651,11 @@
             },
             {
                 "to": {
-                    "startLine": 180,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 9165,
+                    "startOffset": 9257,
                     "endColumn": 50,
-                    "endOffset": 9211
+                    "endOffset": 9303
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2651,11 +2670,11 @@
             },
             {
                 "to": {
-                    "startLine": 181,
+                    "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 9216,
+                    "startOffset": 9308,
                     "endColumn": 81,
-                    "endOffset": 9293
+                    "endOffset": 9385
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2670,11 +2689,11 @@
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 9298,
+                    "startOffset": 9390,
                     "endColumn": 33,
-                    "endOffset": 9327
+                    "endOffset": 9419
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2689,11 +2708,11 @@
             },
             {
                 "to": {
-                    "startLine": 183,
+                    "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 9332,
+                    "startOffset": 9424,
                     "endColumn": 49,
-                    "endOffset": 9377
+                    "endOffset": 9469
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2708,11 +2727,11 @@
             },
             {
                 "to": {
-                    "startLine": 184,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 9382,
+                    "startOffset": 9474,
                     "endColumn": 60,
-                    "endOffset": 9438
+                    "endOffset": 9530
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2727,11 +2746,11 @@
             },
             {
                 "to": {
-                    "startLine": 185,
+                    "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 9443,
+                    "startOffset": 9535,
                     "endColumn": 54,
-                    "endOffset": 9493
+                    "endOffset": 9585
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2746,11 +2765,11 @@
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 9498,
+                    "startOffset": 9590,
                     "endColumn": 54,
-                    "endOffset": 9548
+                    "endOffset": 9640
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2765,11 +2784,11 @@
             },
             {
                 "to": {
-                    "startLine": 187,
+                    "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 9553,
+                    "startOffset": 9645,
                     "endColumn": 54,
-                    "endOffset": 9603
+                    "endOffset": 9695
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2784,11 +2803,11 @@
             },
             {
                 "to": {
-                    "startLine": 188,
+                    "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 9608,
+                    "startOffset": 9700,
                     "endColumn": 67,
-                    "endOffset": 9671
+                    "endOffset": 9763
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2803,11 +2822,11 @@
             },
             {
                 "to": {
-                    "startLine": 189,
+                    "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 9676,
+                    "startOffset": 9768,
                     "endColumn": 68,
-                    "endOffset": 9740
+                    "endOffset": 9832
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2822,11 +2841,11 @@
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 9745,
+                    "startOffset": 9837,
                     "endColumn": 55,
-                    "endOffset": 9796
+                    "endOffset": 9888
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2841,11 +2860,11 @@
             },
             {
                 "to": {
-                    "startLine": 191,
+                    "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 9801,
+                    "startOffset": 9893,
                     "endColumn": 58,
-                    "endOffset": 9855
+                    "endOffset": 9947
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2860,11 +2879,11 @@
             },
             {
                 "to": {
-                    "startLine": 192,
+                    "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 9860,
+                    "startOffset": 9952,
                     "endColumn": 54,
-                    "endOffset": 9910
+                    "endOffset": 10002
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -2879,11 +2898,11 @@
             },
             {
                 "to": {
-                    "startLine": 193,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 9915,
+                    "startOffset": 10007,
                     "endColumn": 83,
-                    "endOffset": 9994
+                    "endOffset": 10086
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2898,11 +2917,11 @@
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 9999,
+                    "startOffset": 10091,
                     "endColumn": 71,
-                    "endOffset": 10066
+                    "endOffset": 10158
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2917,11 +2936,11 @@
             },
             {
                 "to": {
-                    "startLine": 195,
+                    "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 10071,
+                    "startOffset": 10163,
                     "endColumn": 98,
-                    "endOffset": 10165
+                    "endOffset": 10257
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2936,11 +2955,11 @@
             },
             {
                 "to": {
-                    "startLine": 196,
+                    "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 10170,
+                    "startOffset": 10262,
                     "endColumn": 70,
-                    "endOffset": 10236
+                    "endOffset": 10328
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2955,11 +2974,11 @@
             },
             {
                 "to": {
-                    "startLine": 197,
+                    "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 10241,
+                    "startOffset": 10333,
                     "endColumn": 81,
-                    "endOffset": 10318
+                    "endOffset": 10410
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2974,11 +2993,11 @@
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 10323,
+                    "startOffset": 10415,
                     "endColumn": 140,
-                    "endOffset": 10459
+                    "endOffset": 10551
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -2993,11 +3012,11 @@
             },
             {
                 "to": {
-                    "startLine": 199,
+                    "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 10464,
+                    "startOffset": 10556,
                     "endColumn": 85,
-                    "endOffset": 10545
+                    "endOffset": 10637
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3012,11 +3031,11 @@
             },
             {
                 "to": {
-                    "startLine": 200,
+                    "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 10550,
+                    "startOffset": 10642,
                     "endColumn": 67,
-                    "endOffset": 10613
+                    "endOffset": 10705
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3031,11 +3050,11 @@
             },
             {
                 "to": {
-                    "startLine": 201,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 10618,
+                    "startOffset": 10710,
                     "endColumn": 76,
-                    "endOffset": 10690
+                    "endOffset": 10782
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3050,11 +3069,11 @@
             },
             {
                 "to": {
-                    "startLine": 202,
+                    "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 10695,
+                    "startOffset": 10787,
                     "endColumn": 64,
-                    "endOffset": 10755
+                    "endOffset": 10847
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3069,11 +3088,11 @@
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 10760,
+                    "startOffset": 10852,
                     "endColumn": 91,
-                    "endOffset": 10847
+                    "endOffset": 10939
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3088,11 +3107,11 @@
             },
             {
                 "to": {
-                    "startLine": 204,
+                    "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 10852,
+                    "startOffset": 10944,
                     "endColumn": 101,
-                    "endOffset": 10949
+                    "endOffset": 11041
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3107,11 +3126,11 @@
             },
             {
                 "to": {
-                    "startLine": 205,
+                    "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 10954,
+                    "startOffset": 11046,
                     "endColumn": 90,
-                    "endOffset": 11040
+                    "endOffset": 11132
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3126,11 +3145,11 @@
             },
             {
                 "to": {
-                    "startLine": 206,
+                    "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 11045,
+                    "startOffset": 11137,
                     "endColumn": 74,
-                    "endOffset": 11115
+                    "endOffset": 11207
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3145,11 +3164,11 @@
             },
             {
                 "to": {
-                    "startLine": 207,
+                    "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 11120,
+                    "startOffset": 11212,
                     "endColumn": 66,
-                    "endOffset": 11182
+                    "endOffset": 11274
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3164,11 +3183,11 @@
             },
             {
                 "to": {
-                    "startLine": 208,
+                    "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 11187,
+                    "startOffset": 11279,
                     "endColumn": 59,
-                    "endOffset": 11242
+                    "endOffset": 11334
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3183,11 +3202,11 @@
             },
             {
                 "to": {
-                    "startLine": 209,
+                    "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 11247,
+                    "startOffset": 11339,
                     "endColumn": 57,
-                    "endOffset": 11300
+                    "endOffset": 11392
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3202,11 +3221,11 @@
             },
             {
                 "to": {
-                    "startLine": 210,
+                    "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 11305,
+                    "startOffset": 11397,
                     "endColumn": 156,
-                    "endOffset": 11457
+                    "endOffset": 11549
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3221,11 +3240,11 @@
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 11462,
+                    "startOffset": 11554,
                     "endColumn": 73,
-                    "endOffset": 11531
+                    "endOffset": 11623
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3240,11 +3259,11 @@
             },
             {
                 "to": {
-                    "startLine": 212,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 11536,
+                    "startOffset": 11628,
                     "endColumn": 70,
-                    "endOffset": 11602
+                    "endOffset": 11694
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3259,11 +3278,11 @@
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 11607,
+                    "startOffset": 11699,
                     "endColumn": 135,
-                    "endOffset": 11738
+                    "endOffset": 11830
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3278,11 +3297,11 @@
             },
             {
                 "to": {
-                    "startLine": 214,
+                    "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 11743,
+                    "startOffset": 11835,
                     "endColumn": 69,
-                    "endOffset": 11808
+                    "endOffset": 11900
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3297,11 +3316,11 @@
             },
             {
                 "to": {
-                    "startLine": 215,
+                    "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 11813,
+                    "startOffset": 11905,
                     "endColumn": 53,
-                    "endOffset": 11862
+                    "endOffset": 11954
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3316,11 +3335,11 @@
             },
             {
                 "to": {
-                    "startLine": 216,
+                    "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 11867,
+                    "startOffset": 11959,
                     "endColumn": 60,
-                    "endOffset": 11923
+                    "endOffset": 12015
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3335,11 +3354,11 @@
             },
             {
                 "to": {
-                    "startLine": 217,
+                    "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 11928,
+                    "startOffset": 12020,
                     "endColumn": 119,
-                    "endOffset": 12043
+                    "endOffset": 12135
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3354,11 +3373,11 @@
             },
             {
                 "to": {
-                    "startLine": 218,
+                    "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 12048,
+                    "startOffset": 12140,
                     "endColumn": 85,
-                    "endOffset": 12129
+                    "endOffset": 12221
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3373,11 +3392,11 @@
             },
             {
                 "to": {
-                    "startLine": 219,
+                    "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 12134,
+                    "startOffset": 12226,
                     "endColumn": 68,
-                    "endOffset": 12198
+                    "endOffset": 12290
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3392,11 +3411,11 @@
             },
             {
                 "to": {
-                    "startLine": 220,
+                    "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 12203,
+                    "startOffset": 12295,
                     "endColumn": 95,
-                    "endOffset": 12294
+                    "endOffset": 12386
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3411,11 +3430,11 @@
             },
             {
                 "to": {
-                    "startLine": 221,
+                    "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 12299,
+                    "startOffset": 12391,
                     "endColumn": 69,
-                    "endOffset": 12364
+                    "endOffset": 12456
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3430,11 +3449,11 @@
             },
             {
                 "to": {
-                    "startLine": 222,
+                    "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 12369,
+                    "startOffset": 12461,
                     "endColumn": 120,
-                    "endOffset": 12485
+                    "endOffset": 12577
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3449,11 +3468,11 @@
             },
             {
                 "to": {
-                    "startLine": 223,
+                    "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 12490,
+                    "startOffset": 12582,
                     "endColumn": 77,
-                    "endOffset": 12563
+                    "endOffset": 12655
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3468,11 +3487,11 @@
             },
             {
                 "to": {
-                    "startLine": 224,
+                    "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 12568,
+                    "startOffset": 12660,
                     "endColumn": 71,
-                    "endOffset": 12635
+                    "endOffset": 12727
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3487,11 +3506,11 @@
             },
             {
                 "to": {
-                    "startLine": 225,
+                    "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 12640,
+                    "startOffset": 12732,
                     "endColumn": 99,
-                    "endOffset": 12735
+                    "endOffset": 12827
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3506,11 +3525,11 @@
             },
             {
                 "to": {
-                    "startLine": 226,
+                    "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 12740,
+                    "startOffset": 12832,
                     "endColumn": 61,
-                    "endOffset": 12797
+                    "endOffset": 12889
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3525,11 +3544,11 @@
             },
             {
                 "to": {
-                    "startLine": 227,
+                    "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 12802,
+                    "startOffset": 12894,
                     "endColumn": 63,
-                    "endOffset": 12861
+                    "endOffset": 12953
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3544,11 +3563,11 @@
             },
             {
                 "to": {
-                    "startLine": 228,
+                    "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 12866,
+                    "startOffset": 12958,
                     "endColumn": 61,
-                    "endOffset": 12923
+                    "endOffset": 13015
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3563,11 +3582,11 @@
             },
             {
                 "to": {
-                    "startLine": 229,
+                    "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 12928,
+                    "startOffset": 13020,
                     "endColumn": 66,
-                    "endOffset": 12990
+                    "endOffset": 13082
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3582,11 +3601,11 @@
             },
             {
                 "to": {
-                    "startLine": 230,
+                    "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 12995,
+                    "startOffset": 13087,
                     "endColumn": 64,
-                    "endOffset": 13055
+                    "endOffset": 13147
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3601,11 +3620,11 @@
             },
             {
                 "to": {
-                    "startLine": 231,
+                    "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 13060,
+                    "startOffset": 13152,
                     "endColumn": 68,
-                    "endOffset": 13124
+                    "endOffset": 13216
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3620,11 +3639,11 @@
             },
             {
                 "to": {
-                    "startLine": 232,
+                    "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 13129,
+                    "startOffset": 13221,
                     "endColumn": 67,
-                    "endOffset": 13192
+                    "endOffset": 13284
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3639,11 +3658,11 @@
             },
             {
                 "to": {
-                    "startLine": 233,
+                    "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 13197,
+                    "startOffset": 13289,
                     "endColumn": 50,
-                    "endOffset": 13243
+                    "endOffset": 13335
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3658,11 +3677,11 @@
             },
             {
                 "to": {
-                    "startLine": 234,
+                    "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 13248,
+                    "startOffset": 13340,
                     "endColumn": 56,
-                    "endOffset": 13300
+                    "endOffset": 13392
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3677,11 +3696,11 @@
             },
             {
                 "to": {
-                    "startLine": 235,
+                    "startLine": 236,
                     "startColumn": 4,
-                    "startOffset": 13305,
+                    "startOffset": 13397,
                     "endColumn": 56,
-                    "endOffset": 13357
+                    "endOffset": 13449
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3696,11 +3715,11 @@
             },
             {
                 "to": {
-                    "startLine": 236,
+                    "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 13362,
+                    "startOffset": 13454,
                     "endColumn": 57,
-                    "endOffset": 13415
+                    "endOffset": 13507
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3715,11 +3734,11 @@
             },
             {
                 "to": {
-                    "startLine": 237,
+                    "startLine": 238,
                     "startColumn": 4,
-                    "startOffset": 13420,
+                    "startOffset": 13512,
                     "endColumn": 56,
-                    "endOffset": 13472
+                    "endOffset": 13564
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3734,11 +3753,11 @@
             },
             {
                 "to": {
-                    "startLine": 238,
+                    "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 13477,
+                    "startOffset": 13569,
                     "endColumn": 48,
-                    "endOffset": 13521
+                    "endOffset": 13613
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3753,11 +3772,11 @@
             },
             {
                 "to": {
-                    "startLine": 239,
+                    "startLine": 240,
                     "startColumn": 4,
-                    "startOffset": 13526,
+                    "startOffset": 13618,
                     "endColumn": 64,
-                    "endOffset": 13586
+                    "endOffset": 13678
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3772,11 +3791,11 @@
             },
             {
                 "to": {
-                    "startLine": 240,
+                    "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 13591,
+                    "startOffset": 13683,
                     "endColumn": 55,
-                    "endOffset": 13642
+                    "endOffset": 13734
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -3791,11 +3810,11 @@
             },
             {
                 "to": {
-                    "startLine": 241,
+                    "startLine": 242,
                     "startColumn": 4,
-                    "startOffset": 13647,
+                    "startOffset": 13739,
                     "endColumn": 37,
-                    "endOffset": 13680
+                    "endOffset": 13772
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3810,11 +3829,11 @@
             },
             {
                 "to": {
-                    "startLine": 242,
+                    "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 13685,
+                    "startOffset": 13777,
                     "endColumn": 49,
-                    "endOffset": 13730
+                    "endOffset": 13822
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3829,11 +3848,11 @@
             },
             {
                 "to": {
-                    "startLine": 243,
+                    "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 13735,
+                    "startOffset": 13827,
                     "endColumn": 45,
-                    "endOffset": 13776
+                    "endOffset": 13868
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3848,11 +3867,11 @@
             },
             {
                 "to": {
-                    "startLine": 244,
+                    "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 13781,
+                    "startOffset": 13873,
                     "endColumn": 47,
-                    "endOffset": 13824
+                    "endOffset": 13916
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3867,11 +3886,11 @@
             },
             {
                 "to": {
-                    "startLine": 245,
+                    "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 13829,
+                    "startOffset": 13921,
                     "endColumn": 47,
-                    "endOffset": 13872
+                    "endOffset": 13964
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3886,11 +3905,11 @@
             },
             {
                 "to": {
-                    "startLine": 246,
+                    "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 13877,
+                    "startOffset": 13969,
                     "endColumn": 45,
-                    "endOffset": 13918
+                    "endOffset": 14010
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3905,11 +3924,11 @@
             },
             {
                 "to": {
-                    "startLine": 247,
+                    "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 13923,
+                    "startOffset": 14015,
                     "endColumn": 49,
-                    "endOffset": 13968
+                    "endOffset": 14060
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3924,11 +3943,11 @@
             },
             {
                 "to": {
-                    "startLine": 248,
+                    "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 13973,
+                    "startOffset": 14065,
                     "endColumn": 45,
-                    "endOffset": 14014
+                    "endOffset": 14106
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3943,11 +3962,11 @@
             },
             {
                 "to": {
-                    "startLine": 249,
+                    "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 14019,
+                    "startOffset": 14111,
                     "endColumn": 44,
-                    "endOffset": 14059
+                    "endOffset": 14151
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3962,11 +3981,11 @@
             },
             {
                 "to": {
-                    "startLine": 250,
+                    "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 14064,
+                    "startOffset": 14156,
                     "endColumn": 48,
-                    "endOffset": 14108
+                    "endOffset": 14200
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -3981,11 +4000,11 @@
             },
             {
                 "to": {
-                    "startLine": 251,
+                    "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 14113,
+                    "startOffset": 14205,
                     "endColumn": 72,
-                    "endOffset": 14181
+                    "endOffset": 14273
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4000,11 +4019,11 @@
             },
             {
                 "to": {
-                    "startLine": 252,
+                    "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 14186,
+                    "startOffset": 14278,
                     "endColumn": 55,
-                    "endOffset": 14237
+                    "endOffset": 14329
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4019,11 +4038,11 @@
             },
             {
                 "to": {
-                    "startLine": 253,
+                    "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 14242,
+                    "startOffset": 14334,
                     "endColumn": 67,
-                    "endOffset": 14305
+                    "endOffset": 14397
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4038,11 +4057,11 @@
             },
             {
                 "to": {
-                    "startLine": 254,
+                    "startLine": 255,
                     "startColumn": 4,
-                    "startOffset": 14310,
+                    "startOffset": 14402,
                     "endColumn": 57,
-                    "endOffset": 14363
+                    "endOffset": 14455
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4057,11 +4076,30 @@
             },
             {
                 "to": {
-                    "startLine": 255,
+                    "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 14368,
+                    "startOffset": 14460,
+                    "endColumn": 59,
+                    "endOffset": 14515
+                },
+                "from": {
+                    "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 4437,
+                        "endColumn": 59,
+                        "endOffset": 4492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 14520,
                     "endColumn": 51,
-                    "endOffset": 14415
+                    "endOffset": 14567
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4076,11 +4114,11 @@
             },
             {
                 "to": {
-                    "startLine": 256,
+                    "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 14420,
+                    "startOffset": 14572,
                     "endColumn": 53,
-                    "endOffset": 14469
+                    "endOffset": 14621
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4095,11 +4133,30 @@
             },
             {
                 "to": {
-                    "startLine": 257,
+                    "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 14474,
-                    "endColumn": 81,
-                    "endOffset": 14551
+                    "startOffset": 14626,
+                    "endColumn": 74,
+                    "endOffset": 14696
+                },
+                "from": {
+                    "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 4362,
+                        "endColumn": 74,
+                        "endOffset": 4432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 14701,
+                    "endColumn": 94,
+                    "endOffset": 14791
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4107,37 +4164,18 @@
                         "startLine": 87,
                         "startColumn": 4,
                         "startOffset": 4213,
-                        "endColumn": 81,
-                        "endOffset": 4290
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 258,
-                    "startColumn": 4,
-                    "startOffset": 14556,
-                    "endColumn": 94,
-                    "endOffset": 14646
-                },
-                "from": {
-                    "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 88,
-                        "startColumn": 4,
-                        "startOffset": 4295,
                         "endColumn": 94,
-                        "endOffset": 4385
+                        "endOffset": 4303
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 259,
+                    "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 14651,
+                    "startOffset": 14796,
                     "endColumn": 60,
-                    "endOffset": 14707
+                    "endOffset": 14852
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4152,11 +4190,11 @@
             },
             {
                 "to": {
-                    "startLine": 260,
+                    "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 14712,
+                    "startOffset": 14857,
                     "endColumn": 69,
-                    "endOffset": 14777
+                    "endOffset": 14922
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4171,11 +4209,11 @@
             },
             {
                 "to": {
-                    "startLine": 261,
+                    "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 14782,
+                    "startOffset": 14927,
                     "endColumn": 68,
-                    "endOffset": 14846
+                    "endOffset": 14991
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4190,11 +4228,11 @@
             },
             {
                 "to": {
-                    "startLine": 262,
+                    "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 14851,
+                    "startOffset": 14996,
                     "endColumn": 47,
-                    "endOffset": 14894
+                    "endOffset": 15039
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4209,11 +4247,11 @@
             },
             {
                 "to": {
-                    "startLine": 263,
+                    "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 14899,
+                    "startOffset": 15044,
                     "endColumn": 144,
-                    "endOffset": 15039
+                    "endOffset": 15184
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4228,11 +4266,11 @@
             },
             {
                 "to": {
-                    "startLine": 264,
+                    "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 15044,
+                    "startOffset": 15189,
                     "endColumn": 58,
-                    "endOffset": 15098
+                    "endOffset": 15243
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4247,11 +4285,30 @@
             },
             {
                 "to": {
-                    "startLine": 265,
+                    "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 15103,
+                    "startOffset": 15248,
+                    "endColumn": 71,
+                    "endOffset": 15315
+                },
+                "from": {
+                    "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 4497,
+                        "endColumn": 71,
+                        "endOffset": 4564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 15320,
                     "endColumn": 88,
-                    "endOffset": 15187
+                    "endOffset": 15404
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -4266,11 +4323,11 @@
             },
             {
                 "to": {
-                    "startLine": 266,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 15192,
+                    "startOffset": 15409,
                     "endColumn": 56,
-                    "endOffset": 15244
+                    "endOffset": 15461
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -4285,11 +4342,11 @@
             },
             {
                 "to": {
-                    "startLine": 267,
+                    "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 15249,
+                    "startOffset": 15466,
                     "endColumn": 48,
-                    "endOffset": 15293
+                    "endOffset": 15510
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\exploded-aar\\Glance\\captureActivity\\unspecified\\res\\values\\values.xml",
@@ -4304,11 +4361,11 @@
             },
             {
                 "to": {
-                    "startLine": 268,
+                    "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 15298,
+                    "startOffset": 15515,
                     "endColumn": 35,
-                    "endOffset": 15329
+                    "endOffset": 15546
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\strings.xml",
@@ -4323,12 +4380,12 @@
             },
             {
                 "to": {
-                    "startLine": 269,
+                    "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 15334,
-                    "endLine": 275,
+                    "startOffset": 15551,
+                    "endLine": 278,
                     "endColumn": 12,
-                    "endOffset": 15620
+                    "endOffset": 15837
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\styles.xml",
@@ -4344,12 +4401,12 @@
             },
             {
                 "to": {
-                    "startLine": 276,
+                    "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 15625,
-                    "endLine": 278,
+                    "startOffset": 15842,
+                    "endLine": 281,
                     "endColumn": 12,
-                    "endOffset": 15780
+                    "endOffset": 15997
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\styles.xml",
@@ -4365,12 +4422,12 @@
             },
             {
                 "to": {
-                    "startLine": 279,
+                    "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 15785,
-                    "endLine": 281,
+                    "startOffset": 16002,
+                    "endLine": 284,
                     "endColumn": 12,
-                    "endOffset": 15941
+                    "endOffset": 16158
                 },
                 "from": {
                     "file": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\values\\styles.xml",

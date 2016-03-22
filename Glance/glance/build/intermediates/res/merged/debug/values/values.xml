@@ -68,6 +68,7 @@
     <item name="quit" type="id"/>
     <item name="restart_preview" type="id"/>
     <item name="return_scan_result" type="id"/>
+    <string name="ImageDetectionWelcomeMessage">Tap to Take a Picture for Analysis</string>
     <string name="action_settings">Settings</string>
     <string name="app_name">Glance</string>
     <string name="app_picker_name">Applications</string>
@@ -253,9 +254,10 @@
     <string name="submit_status">Submit Status</string>
     <string name="success_auth">Successfully authenticated</string>
     <string name="take_a_picture">Take A Picture</string>
+    <string name="tap_message">Tap to take Picture</string>
     <string name="test_server">TEST SERVER</string>
     <string name="thumbnail">Image thumbnail</string>
-    <string name="title_activity_image_detection">ImageDetectionActivity</string>
+    <string name="title_activity_image_detection">Image Detection</string>
     <string name="title_activity_image_detection_immersion">Image Detection Immersion</string>
     <string name="title_activity_test">TestActivity</string>
     <string name="unable_to_fetch_data">Unable to fetch data</string>
@@ -263,6 +265,7 @@
     <string name="upload">Upload Photo</string>
     <string name="video_message">This video is a representation of the actual repair video, and is used for demonstration purpose only.</string>
     <string name="voice_menu_trigger">Open Glance</string>
+    <string name="wait_message">Uploading Picture. Please Wait</string>
     <string name="wifi_changing_network">Requesting connection to network\u2026</string>
     <string name="wifi_ssid_label">Network Name</string>
     <string name="wifi_type_label">Type</string>
