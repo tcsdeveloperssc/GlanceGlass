@@ -308,6 +308,7 @@ public class HotSpotActivity extends BaseActivity {
 			if (null != listCriteriaSatisfiedNodes
 					&& listCriteriaSatisfiedNodes.size() > 0) {
 				subNodeList = listCriteriaSatisfiedNodes.get(0).getSubNodes();
+				Log.d("glance.tom", "links in subnode: " + subNodeList.get(0).gethotspots().get(0).getlinks());
 				mainSubNodeList = subNodeList;
 				
 				
@@ -407,6 +408,7 @@ public class HotSpotActivity extends BaseActivity {
 
 		currentSubNodeKey = subNodeArray.get(currentPage).getsubNodeKey();
 		hotSpotList = subNodeArray.get(currentPage).gethotspots();
+
 
 	}
 
@@ -573,13 +575,14 @@ public class HotSpotActivity extends BaseActivity {
 					/*
 					 * Uncomment this if video is streamed
 					 */
-					/*
-					 * if(pBar != null) pBar.setVisibility(View.VISIBLE);
-					 * artTask = new ArtiFactImageTask(mContext, "video",
-					 * videoListener);
-					 * artTask.execute(link_array.getJSONObject(i).getString(
-					 * "artifactId"));
-					 */
+
+//						Log.d("glance.tom", "artifact ID: " + link_array.getJSONObject(i).getString("artifactId"));
+//					  if(pBar != null) pBar.setVisibility(View.VISIBLE);
+//					  artTask = new ArtiFactImageTask(mContext, "video",
+//					  videoListener);
+//					  artTask.execute(link_array.getJSONObject(i).getString(
+//					  "artifactId"));
+
 
 					Intent videoIntent = new Intent(mContext, VideoScreen.class);
 					videoIntent.putExtra("id", link_array.getJSONObject(i)
@@ -736,6 +739,9 @@ public class HotSpotActivity extends BaseActivity {
 
 	public void getSpeechResults(ArrayList<String> strlist) {
 		GLog.d("SPEECH_SERVICE***", "Inside getSpeechResults : HotSpot");
+//		Log.d("glance.tom", hotSpotList.get(0).getlinks() + ", "+hotSpotList.get(1).getlinks());
+
+
 
 		commandIndex = Utils.keyFinder(strlist);
 

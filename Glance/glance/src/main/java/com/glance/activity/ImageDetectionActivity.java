@@ -2,18 +2,24 @@ package com.glance.activity;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.hardware.Camera;
 import android.net.Uri;
 import android.os.AsyncTask;
+import android.os.Build;
 import android.os.Bundle;
 import android.app.Activity;
+import android.os.Environment;
 import android.os.FileObserver;
 import android.provider.MediaStore;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
+import android.view.WindowManager;
+import android.widget.FrameLayout;
 import android.widget.Toast;
 
 import com.glance.R;
+import com.glance.bean.model.CameraPreview;
 import com.glance.utils.Constants;
 import com.google.android.glass.content.Intents;
 import com.google.android.glass.widget.CardBuilder;
@@ -33,8 +39,12 @@ import com.google.api.services.vision.v1.model.Image;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 public class ImageDetectionActivity extends Activity {
@@ -42,6 +52,8 @@ public class ImageDetectionActivity extends Activity {
     private final static int TAKE_IMAGE_FOR_DETECTION_ANALYSIS = 1;
     private final static String TAG = "ImageDetectionActivity";
     private static final String CLOUD_VISION_API_KEY = "AIzaSyBSzUdVO_ehZH33j6-IGPW7MEeUlo6Cyhw";
+    private Camera mCamera = null;
+    private CameraPreview mPreview = null;
 
     private View view = null;
     private File globalPictureFile = null;
@@ -50,7 +62,7 @@ public class ImageDetectionActivity extends Activity {
     public boolean onKeyDown(int keyCode, KeyEvent event) {
         if (keyCode == KeyEvent.KEYCODE_DPAD_CENTER) {
             // user tapped take a picture
-            this.takePictureForAnalysis();
+            mCamera.takePicture(null,null,mPicture);
             return true;
         }
 
@@ -60,15 +72,99 @@ public class ImageDetectionActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON); // to keep screen on
 //        setContentView(R.layout.activity_image_detection);
         //getActionBar().setDisplayHomeAsUpEnabled(true);
 
-        view = new CardBuilder(this, CardBuilder.Layout.TEXT)
-                .setText(R.string.ImageDetectionWelcomeMessage)
-                .getView();
-        setContentView(view);
+//        view = new CardBuilder(this, CardBuilder.Layout.TEXT)
+//                .setText(R.string.ImageDetectionWelcomeMessage)
+//                .getView();
+//        setContentView(view);
+
+        setContentView(R.layout.camerapreview);
+        if(mCamera == null)
+            mCamera = getCameraInstance();
+        // Create our Preview view and set it as the content of our activity.
+        mPreview = new CameraPreview(getApplicationContext(), mCamera);
+        FrameLayout preview = (FrameLayout) findViewById(R.id.camera_preview);
+        preview.addView(mPreview);
 
 
+
+    }
+
+    /** A safe way to get an instance of the Camera object. Adapted from Android Developer Guide*/
+    public static Camera getCameraInstance(){
+        Camera c = null;
+        try {
+            c = Camera.open(); // attempt to get a Camera instance
+            // http://stackoverflow.com/questions/19235477/google-glass-preview-image-scrambled-with-new-xe10-release
+            Camera.Parameters params = c.getParameters();
+
+            //seems the bug the link was accomodating was fixed in Glass 2
+            //However the camera preview is rotated so must rotate to correct orientation
+            Log.d("glance.tom", "Glass Model: " + Build.MODEL.toString());
+            if(Build.MODEL.toString().contains("Glass 1"))
+                params.setPreviewFpsRange(30000, 30000);
+            else if(Build.MODEL.toString().contains("Glass 2"))
+                c.setDisplayOrientation(90);
+            else
+                Log.d(TAG, "Could not recognise Glass Model in CameraManager.java line 107");
+
+
+            c.setParameters(params);
+            System.out.println("Camera is Open");
+        }
+        catch (Exception e){
+            // Camera is not available (in use or does not exist)
+            System.out.println("Error Message: " + e.getMessage());
+            e.printStackTrace();
+        }
+        return c; // returns null if camera is unavailable
+    }
+
+    /*
+    Suppy image data after image is captured. Adapted from Android Developer Guide
+    */
+    Camera.PictureCallback mPicture = new Camera.PictureCallback() {
+        @Override
+        public void onPictureTaken(byte[] data, Camera camera) {
+            File pictureFile = getOutputMediaFile();
+            if (pictureFile == null) {
+                return;
+            }
+            try {
+                FileOutputStream fos = new FileOutputStream(pictureFile);
+                fos.write(data);
+                uploadImage(Uri.fromFile(pictureFile));
+                fos.close();
+            } catch (FileNotFoundException e) {
+            } catch (IOException e) {
+            }
+        }
+    };
+
+    /*
+   Creates a media file. Adapted from Android Developer Guide
+    */
+    private static File getOutputMediaFile() {
+        File mediaStorageDir = new File(
+                Environment
+                        .getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES),
+                "MyCameraApp");
+        if (!mediaStorageDir.exists()) {
+            if (!mediaStorageDir.mkdirs()) {
+                Log.d("MyCameraApp", "failed to create directory");
+                return null;
+            }
+        }
+        // Create a media file name
+        String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss")
+                .format(new Date());
+        File mediaFile;
+        mediaFile = new File(mediaStorageDir.getPath() + File.separator
+                + "IMG_" + timeStamp + ".jpg");
+        return mediaFile;
     }
 
     public void takePictureForAnalysis()
@@ -203,7 +299,7 @@ public class ImageDetectionActivity extends Activity {
                         annotateImageRequest.setFeatures(new ArrayList<Feature>() {{
                             Feature labelDetection = new Feature();
                             labelDetection.setType("LABEL_DETECTION");
-                            labelDetection.setMaxResults(10);
+                            labelDetection.setMaxResults(1);
                             add(labelDetection);
                         }});
                         // Add the list of one thing to the reques
@@ -288,20 +384,48 @@ public class ImageDetectionActivity extends Activity {
 
     private String convertResponseToString(BatchAnnotateImagesResponse response) {
         String message = "";
-        message = "Found these Objects:\n\n";
+        message = "Found this Object:\n\n";
         List<EntityAnnotation> labels = response.getResponses().get(0).getLabelAnnotations();
         if (labels != null) {
             for (EntityAnnotation label : labels) {
                 //message += String.format("%.3f: %s", label.getScore(), label.getDescription());
                 message += label.getDescription();
 //                        + ". Score: " + label.getScore();
-                message += ", ";
+//                if(label.getDescription().equals(labels.get(label.size() - 1).getDescription()))
+//                    message += ".";
+//                else
+//                    message += ", ";
             }
         } else {
             message += "nothing";
         }
         return message;
 
+    }
+
+    @Override
+    public void onResume(){
+        super.onResume();
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        setContentView(R.layout.camerapreview);
+        if(mCamera == null)
+            mCamera = getCameraInstance();
+        // Create our Preview view and set it as the content of our activity.
+        mPreview = new CameraPreview(getApplicationContext(), mCamera);
+        FrameLayout preview = (FrameLayout) findViewById(R.id.camera_preview);
+        preview.addView(mPreview);
+    }
+
+    @Override
+    public void onStop(){
+        super.onStop();
+        if(mCamera != null){
+            mCamera.release();
+        }
     }
 
 }

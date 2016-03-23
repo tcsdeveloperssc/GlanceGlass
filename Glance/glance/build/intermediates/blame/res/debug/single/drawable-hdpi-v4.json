@@ -80,12 +80,12 @@
         "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\icn_green_blub.png"
     },
     {
-        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_warning.png",
-        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_warning.png"
-    },
-    {
         "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chrysanthemum.jpg",
         "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\chrysanthemum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_warning.png",
+        "source": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\src\\main\\res\\drawable-hdpi\\ic_warning.png"
     },
     {
         "merged": "C:\\Users\\1077203\\AndroidStudioProjects\\Glance\\glance\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share.png",

@@ -979,6 +979,8 @@ public class TaskListActivity extends BaseActivity {
 					checkedSubNodeKeys);
 			intent.putExtra(TASK_ID, task_id);
 
+			Log.d("glance.tom", "story ID: " + story_id + " , task_id: " + task_id);
+
 			// tasks = null;
 			// mPager = null;
 			// mAdapter = null;
