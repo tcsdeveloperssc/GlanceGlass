@@ -2,7 +2,7 @@ Changes to original source code
 
 1. 
 
-In the AndroidManifest.xml, replaced line 62
+In the AndroidManifest.xml of capture activity module, replaced line 62
 
 <category android:name="android.intent.category.LAUNCHER" />
 
